@@ -1,0 +1,28 @@
+h1 {color: brown;
+    text-align: center;
+    margin-bottom: 20px;}
+
+p { font-size: 16px;
+    color: rgb(189, 118, 13);
+
+    margin-top : 20px;
+    margin-bottom : 20px; }
+    
+ul {color: black;
+        padding-left: 20px;
+        margin: 20px 0;}
+img { width: 400px;
+       border: 3px solid #db6606;
+       display: block;
+       margin: 0 auto;}
+       
+     
+
+    
+body{background-color: burlywood;}
+
+    
+
+    
+    
+
